@@ -1,0 +1,3 @@
+Fazer backup de arquivos é uma prática importante para proteger seus dados contra perda acidental, falha de hardware ou ataques de malware. Aqui está um passo a passo para criar um backup de seus arquivos
+
+Lembre-se de que a frequência de seus backups depende da importância dos dados e de quão frequentemente você cria ou modifica arquivos. Fazer backups regulares é uma prática fundamental para manter seus dados seguros
